@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.people.sample",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "microservice",
+    "baseName": "sample",
+    "packageName": "com.people.sample",
+    "packageFolder": "com/people/sample",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWUwZjRhNDA2OTIzMzJiYjgzMWJiODYyYTNlYjM3NTE0Mjg1ZTgyYTk2YmU4YmNiOWQ4ODBlNTVkYjQwZjE0NGNlODBjOWVjZTI1ZmU4YzkzNjY1ZDAzYjhmNzY2NWMwYjM0ZmJkNGUxYWNhNjZjMTVhN2M3ZjA2MGQ1OWM5YmM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1585864279055,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
